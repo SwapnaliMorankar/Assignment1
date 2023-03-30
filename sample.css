@@ -1,0 +1,103 @@
+.class1{
+    background-color: rgb(21, 21, 21);
+    border: 2px solid white;
+    height: 1cm;
+    width: 39.15cm;
+    margin-top: -0.25cm;
+    margin-left: -0.25cm;
+    color:  white;
+}
+.class2{
+    background-color: rgb(217, 215, 215);
+    margin-left: 4cm;
+    border-radius: 5px;
+    height: 5.5cm;
+    width: 30cm;
+    margin-top: -0.05cm;
+    color: black;
+    display: inline-block;
+}
+h4{
+    display: inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 1.2cm;
+    margin-top: 0.3cm;
+}
+.new{
+    text-decoration: none;
+}
+.new:hover{
+    color: rgb(177, 224, 65);
+}
+.one{
+    text-align: left;
+    margin-left: -0.3cm;
+    
+}
+.two{
+    text-align: center;
+    margin-top: -5.3cm;
+    margin-left: -1cm;
+}
+.three{
+    text-align: right;
+    margin-top: -5.5cm;
+    padding-right: 0.8cm;
+}
+.class3{
+    width: 14cm;
+    margin-left: 4cm;
+    padding-top: 0cm;
+    height: 1cm;
+    padding-bottom: 0.5cm;
+}
+.image1{
+    height: 11cm;
+    width: 14cm;
+    margin-right: 2.3cm;
+    margin-top: -4.5cm;
+    margin-left: 23cm;
+}
+p{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: -5.3cm;
+    font-size: 0.35cm;
+    margin-left: 4cm;
+}
+button{
+    height: 0.9cm;
+    width: 3cm;
+    border-radius: 3px;
+    border: none;
+    box-shadow: 2px 2px 2px rgb(156, 152, 152);
+    margin-top: 0.3cm;
+}
+#id1{
+    margin-left: 4cm;
+    background-color: rgb(27, 171, 27);
+    color: white;
+}
+#id2{
+    margin-left: 0.5cm;
+    background-color: rgb(212, 243, 250);
+    color: rgb(27, 171, 27);
+}
+.class4{
+    display: inline-block;
+    margin-left: 4cm;
+    margin-top: 0.8cm;
+    /* border: red solid 2px; */
+
+}
+.class5{
+    height: 1cm;
+    width: 1cm;
+    /* border: red solid 2px; */
+}
+.class6{
+    text-decoration: none;
+    /* border: red solid 2px; */
+   
+}
+
